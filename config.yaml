@@ -1,0 +1,27 @@
+api_active: 1
+api_darksky: c457d056bbbbaa93fd47339aad294da
+api_fpt: 64e87f2e9d7842cccce756c99d65ec53
+domain: https://smarthome.duckdns.org
+google_application_credentials: botallis.json
+hass_password: pass
+hotword: jarvis,jarvis,subex
+led_do: 15
+led_xanh: 14
+longlived-token: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NikkkyJpc3MiOiI2OThiNzgwZGZkODg0NzYwOTc1NDliYWQ5YWU3MzE4NCIsImlhdCI6MTU1ODQxOTEzOSwiZXhwIjoxODczNzc5MTM5fQ.EYKjSEvtWNepAxjYp1Vr83wCOYmt3z6bINDHOejWUqc
+model:
+- jarvis.umdl
+- subex.umdl
+reminder: 1
+sensitivity:
+- 0.6
+- 0.6
+- 0.6
+stand_alone: 0
+tts: google
+version_above084: right
+voice: leminh
+seed: 0
+spotify: 0
+spotify_username: 
+spotify_client_id: 
+spotify_client_secret: 
